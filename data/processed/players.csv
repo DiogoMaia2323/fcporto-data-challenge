@@ -1,0 +1,51 @@
+player_id,player_name,player_nickname,jersey_number,team,position_id,position,position_order,player_photo,team_logo,x,y,starter
+2995,Ángel Fabián Di María Hernández,Ángel Di María,11,Argentina,21,Left Wing,13,https://images.fotmob.com/image_resources/playerimages/46509.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,52.0,18.0,1
+3090,Nicolás Hernán Otamendi,Nicolás Otamendi,19,Argentina,5,Left Center Back,5,https://images.fotmob.com/image_resources/playerimages/174321.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,18.0,28.0,1
+5503,Lionel Andrés Messi Cuccittini,Lionel Messi,10,Argentina,17,Right Wing,14,https://images.fotmob.com/image_resources/playerimages/30981.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,52.0,62.0,1
+5507,Nicolás Alejandro Tagliafico,Nicolás Tagliafico,3,Argentina,6,Left Back,2,https://images.fotmob.com/image_resources/playerimages/195750.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,18.0,10.0,1
+5743,Paulo Bruno Exequiel Dybala,Paulo Dybala,21,Argentina,8,Left Wing Back,3,https://images.fotmob.com/image_resources/playerimages/325916.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+6312,Franco Armani,Franco Armani,1,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+6377,Ángel Martín Correa,Ángel Correa,15,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+6694,Gerónimo Rulli,Gero Rulli,12,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+6909,Damián Emiliano Martínez,Emiliano Martínez,23,Argentina,1,Goalkeeper,1,https://images.fotmob.com/image_resources/playerimages/268375.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,6.0,40.0,1
+7006,Alejandro Darío Gómez,Papu Gómez,17,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+7161,Germán Alejandro Pezzella,Germán Pezzella,6,Argentina,15,Left Center Midfield,10,https://images.fotmob.com/image_resources/playerimages/186991.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+7797,Rodrigo Javier De Paul,Rodrigo De Paul,7,Argentina,13,Right Center Midfield,11,https://images.fotmob.com/image_resources/playerimages/324578.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,38.0,54.0,1
+11456,Lautaro Javier Martínez,Lautaro Martínez,22,Argentina,23,Center Forward,15,https://images.fotmob.com/image_resources/playerimages/690230.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+16308,Leandro Daniel Paredes,Leandro Paredes,5,Argentina,13,Right Center Midfield,11,https://images.fotmob.com/image_resources/playerimages/237606.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+19597,Marcos Javier Acuña,Marcos Acuña,8,Argentina,21,Left Wing,13,https://images.fotmob.com/image_resources/playerimages/561187.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+20572,Cristian Gabriel Romero,Cristian Romero,13,Argentina,3,Right Center Back,6,https://images.fotmob.com/image_resources/playerimages/789066.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,18.0,52.0,1
+21081,Juan Marcos Foyth,Juan Foyth,2,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+26404,Guido Rodríguez,Guido Rodríguez,18,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+27768,Lisandro Martínez,Lisandro Martínez,25,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+27886,Alexis Mac Allister,Alexis MacAllister,20,Argentina,15,Left Center Midfield,10,https://images.fotmob.com/image_resources/playerimages/831489.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,38.0,26.0,1
+28263,Gonzalo Ariel Montiel,Gonzalo Montiel,4,Argentina,2,Right Back,4,https://images.fotmob.com/image_resources/playerimages/687008.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+28268,Exequiel Alejandro Palacios,Exequiel Palacios,14,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+28637,Thiago Ezequiel Almada,Thiago Almada,16,Argentina,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,,,0
+29201,Nahuel Molina Lucero,Nahuel Molina,26,Argentina,2,Right Back,4,https://images.fotmob.com/image_resources/playerimages/726345.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,18.0,70.0,1
+29560,Julián Álvarez,Julián Álvarez,9,Argentina,23,Center Forward,15,https://images.fotmob.com/image_resources/playerimages/974753.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,48.0,40.0,1
+38718,Enzo Fernandez,Enzo Fernandez,24,Argentina,10,Center Defensive Midfield,8,https://images.fotmob.com/image_resources/playerimages/1137705.png,https://images.fotmob.com/image_resources/logo/teamlogo/6706.png,32.0,40.0,1
+2972,Marcus Thuram,Marcus Thuram,26,France,23,Center Forward,15,https://images.fotmob.com/image_resources/playerimages/621562.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+3009,Kylian Mbappé Lottin,Kylian Mbappé,10,France,21,Left Wing,13,https://images.fotmob.com/image_resources/playerimages/701154.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,76.0,66.0,1
+3026,Adrien Rabiot,Adrien Rabiot,14,France,11,Left Defensive Midfield,7,https://images.fotmob.com/image_resources/playerimages/352879.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,88.0,54.0,1
+3099,Hugo Lloris,Hugo Lloris,1,France,1,Goalkeeper,1,https://images.fotmob.com/image_resources/playerimages/26295.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,114.0,40.0,1
+3379,Alphonse Areola,Alphonse Areola,23,France,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+3543,Steve Mandanda,Steve Mandanda,16,France,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+3604,Olivier Giroud,Olivier Giroud,9,France,23,Center Forward,15,https://images.fotmob.com/image_resources/playerimages/46469.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,68.0,40.0,1
+4445,Jules Koundé,Jules Koundé,5,France,2,Right Back,4,https://images.fotmob.com/image_resources/playerimages/705450.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,102.0,10.0,1
+5476,Benjamin Pavard,Benjamin Pavard,2,France,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+5477,Ousmane Dembélé,Ousmane Dembélé,11,France,17,Right Wing,14,https://images.fotmob.com/image_resources/playerimages/692984.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,76.0,14.0,1
+5485,Raphaël Varane,Raphaël Varane,4,France,3,Right Center Back,6,https://images.fotmob.com/image_resources/playerimages/230982.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,102.0,28.0,1
+5487,Antoine Griezmann,Antoine Griezmann,7,France,19,Center Attacking Midfield,12,https://images.fotmob.com/image_resources/playerimages/184138.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,78.0,40.0,1
+6704,Theo Bernard François Hernández,Theo Hernández,22,France,6,Left Back,2,https://images.fotmob.com/image_resources/playerimages/724371.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,102.0,70.0,1
+7153,Jordan Veretout,Jordan Veretout,15,France,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+7345,Mattéo Guendouzi Olié,Mattéo Guendouzi,6,France,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+7439,Axel Disasi,Axel Disasi,3,France,2,Right Back,4,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+8217,Kingsley Coman,Kingsley Coman,20,France,19,Center Attacking Midfield,12,https://images.fotmob.com/image_resources/playerimages/429265.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+8519,Dayotchanculle Upamecano,Dayotchanculle Upamecano,18,France,5,Left Center Back,5,https://images.fotmob.com/image_resources/playerimages/658554.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,102.0,52.0,1
+10481,Aurélien Djani Tchouaméni,Aurélien Tchouaméni,8,France,9,Right Defensive Midfield,9,https://images.fotmob.com/image_resources/playerimages/914458.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,88.0,26.0,1
+11135,Ibrahima Konaté,Ibrahima Konaté,24,France,3,Right Center Back,6,https://images.fotmob.com/image_resources/playerimages/820140.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+11990,Youssouf Fofana,Youssouf Fofana,13,France,11,Left Defensive Midfield,7,https://images.fotmob.com/image_resources/playerimages/917802.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+17592,William Saliba,William Saliba,17,France,,,99,,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+22097,Randal Kolo Muani,Randal Kolo,12,France,17,Right Wing,14,https://images.fotmob.com/image_resources/playerimages/823825.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0
+24778,Eduardo Camavinga,Eduardo Camavinga,25,France,6,Left Back,2,https://images.fotmob.com/image_resources/playerimages/1015185.png,https://images.fotmob.com/image_resources/logo/teamlogo/6723.png,,,0

@@ -1,0 +1,65 @@
+match_id,match_date,kick_off,competition,season,home_team,away_team,home_score,away_score,match_status,match_week,competition_stage,stadium,referee,home_managers,away_managers
+3869685,2022-12-18,17:00:00.000,International - FIFA World Cup,2022,Argentina,France,3,3,available,7,Final,Lusail Stadium,Szymon Marciniak,Lionel Sebastián Scaloni,Didier Deschamps
+3869684,2022-12-17,17:00:00.000,International - FIFA World Cup,2022,Croatia,Morocco,2,1,available,7,3rd Place Final,Sheikh Khalifa International Stadium,Abdulrahman Ibrahim Al Jassim,Zlatko Dalić,Walid Regragui
+3869552,2022-12-14,21:00:00.000,International - FIFA World Cup,2022,France,Morocco,2,0,available,6,Semi-finals,Al Bayt Stadium,César Arturo Ramos Palazuelos,Didier Deschamps,Hoalid Regragui
+3869519,2022-12-13,21:00:00.000,International - FIFA World Cup,2022,Argentina,Croatia,3,0,available,6,Semi-finals,Lusail Stadium,Daniele Orsato,Lionel Sebastián Scaloni,Zlatko Dalić
+3869354,2022-12-10,21:00:00.000,International - FIFA World Cup,2022,England,France,1,2,available,5,Quarter-finals,Al Bayt Stadium,Wilton Pereira Sampaio,Gareth Southgate,Didier Deschamps
+3869486,2022-12-10,17:00:00.000,International - FIFA World Cup,2022,Morocco,Portugal,1,0,available,5,Quarter-finals,Al Thumama Stadium,Facundo Tello Figueroa,Hoalid Regragui,Fernando Manuel Fernandes da Costa Santos
+3869321,2022-12-09,19:00:00.000,International - FIFA World Cup,2022,Netherlands,Argentina,2,2,available,5,Quarter-finals,Lusail Stadium,Antonio Miguel Mateu Lahoz,Louis van Gaal,Lionel Sebastián Scaloni
+3869420,2022-12-09,17:00:00.000,International - FIFA World Cup,2022,Croatia,Brazil,1,1,available,5,Quarter-finals,Education City Stadium ,Michael Oliver,Zlatko Dalić,Telê Santana da Silva
+3869254,2022-12-06,21:00:00.000,International - FIFA World Cup,2022,Portugal,Switzerland,6,1,available,4,Round of 16,Lusail Stadium,César Arturo Ramos Palazuelos,Fernando Manuel Fernandes da Costa Santos,Murat Yakin
+3869220,2022-12-06,17:00:00.000,International - FIFA World Cup,2022,Morocco,Spain,0,0,available,4,Round of 16,Education City Stadium ,Fernando Andrés Rapallini,Hoalid Regragui,Luis Enrique Martínez García
+3869253,2022-12-05,21:00:00.000,International - FIFA World Cup,2022,Brazil,South Korea,4,1,available,4,Round of 16,Stadium 974,Clément Turpin,Adenor Leonardo Bacchi,Paulo Jorge Gomes Bento
+3869219,2022-12-05,17:00:00.000,International - FIFA World Cup,2022,Japan,Croatia,1,1,available,4,Round of 16,Al Janoub Stadium   ,Ismail Elfath,Hajime Moriyasu,Zlatko Dalić
+3869118,2022-12-04,21:00:00.000,International - FIFA World Cup,2022,England,Senegal,3,0,available,4,Round of 16,Al Bayt Stadium,Ivan Arcides Barton Cisneros,Gareth Southgate,Aliou Cissé
+3869152,2022-12-04,17:00:00.000,International - FIFA World Cup,2022,France,Poland,3,1,available,4,Round of 16,Al Thumama Stadium,Jesús Valenzuela Sáez,Didier Deschamps,Czesław Michniewicz
+3869151,2022-12-03,21:00:00.000,International - FIFA World Cup,2022,Argentina,Australia,2,1,available,4,Round of 16,Ahmad bin Ali Stadium,Szymon Marciniak,Lionel Sebastián Scaloni,Graham James Arnold
+3869117,2022-12-03,17:00:00.000,International - FIFA World Cup,2022,Netherlands,United States,3,1,available,4,Round of 16,Sheikh Khalifa International Stadium,Wilton Pereira Sampaio,Louis van Gaal,Gregg Berhalter
+3857256,2022-12-02,19:00:00.000,International - FIFA World Cup,2022,Serbia,Switzerland,2,3,available,3,Group Stage,Stadium 974,Fernando Andrés Rapallini,Dragan Stojković,Murat Yakin
+3857280,2022-12-02,19:00:00.000,International - FIFA World Cup,2022,Cameroon,Brazil,1,0,available,3,Group Stage,Lusail Stadium,Ismail Elfath,Rigobert Song Bahanag,Adenor Leonardo Bacchi
+3857262,2022-12-02,15:00:00.000,International - FIFA World Cup,2022,South Korea,Portugal,2,1,available,3,Group Stage,Education City Stadium ,Facundo Tello Figueroa,Paulo Jorge Gomes Bento,Fernando Manuel Fernandes da Costa Santos
+3857293,2022-12-02,15:00:00.000,International - FIFA World Cup,2022,Ghana,Uruguay,0,2,available,3,Group Stage,Al Janoub Stadium   ,Daniel Siebert,Otto Addo,Diego Martín Alonso López
+3857292,2022-12-01,19:00:00.000,International - FIFA World Cup,2022,Costa Rica,Germany,2,4,available,3,Group Stage,Al Bayt Stadium,Stéphanie Frappart,Luis Fernando Suárez Guzman,Hans-Dieter Flick
+3857255,2022-12-01,19:00:00.000,International - FIFA World Cup,2022,Japan,Spain,2,1,available,3,Group Stage,Sheikh Khalifa International Stadium,Victor Miguel de Freitas Gomes,Hajime Moriyasu,Luis Enrique Martínez García
+3857276,2022-12-01,15:00:00.000,International - FIFA World Cup,2022,Canada,Morocco,1,2,available,3,Group Stage,Al Thumama Stadium,Raphael Claus,John Herdman,Walid Regragui
+3857296,2022-12-01,15:00:00.000,International - FIFA World Cup,2022,Croatia,Belgium,0,0,available,3,Group Stage,Ahmad bin Ali Stadium,Anthony Taylor,Zlatko Dalić,Roberto Martínez Montoliú
+3857260,2022-11-30,19:00:00.000,International - FIFA World Cup,2022,Saudi Arabia,Mexico,1,2,available,3,Group Stage,Lusail Stadium,Michael Oliver,Hervé Renard,Gerardo Daniel Martino
+3857264,2022-11-30,19:00:00.000,International - FIFA World Cup,2022,Poland,Argentina,0,2,available,3,Group Stage,Stadium 974,Danny Desmond Makkelie,Czesław Michniewicz,Lionel Sebastián Scaloni
+3857275,2022-11-30,15:00:00.000,International - FIFA World Cup,2022,Tunisia,France,1,0,available,3,Group Stage,Education City Stadium ,Matthew Conger,Jalel Kadri,Didier Deschamps
+3857257,2022-11-30,15:00:00.000,International - FIFA World Cup,2022,Australia,Denmark,1,0,available,3,Group Stage,Al Janoub Stadium   ,Mustapha Ghorbal,Graham James Arnold,Kasper Hjulmand
+3857278,2022-11-29,19:00:00.000,International - FIFA World Cup,2022,Iran,United States,0,1,available,3,Group Stage,Al Thumama Stadium,Antonio Miguel Mateu Lahoz,Carlos Manuel Brito Leal Queiróz,Gregg Berhalter
+3857261,2022-11-29,19:00:00.000,International - FIFA World Cup,2022,Wales,England,0,3,available,3,Group Stage,Ahmad bin Ali Stadium,Slavko Vinčić,Robert Page,Gareth Southgate
+3857294,2022-11-29,15:00:00.000,International - FIFA World Cup,2022,Netherlands,Qatar,2,0,available,3,Group Stage,Al Bayt Stadium,Bakary Papa Gassama,Louis van Gaal,Félix Sánchez Bas
+3857267,2022-11-29,15:00:00.000,International - FIFA World Cup,2022,Ecuador,Senegal,1,2,available,3,Group Stage,Sheikh Khalifa International Stadium,Clément Turpin,Gustavo Julio Alfaro,Aliou Cissé
+3857270,2022-11-28,19:00:00.000,International - FIFA World Cup,2022,Portugal,Uruguay,2,0,available,2,Group Stage,Lusail Stadium,Alireza Faghani,Fernando Manuel Fernandes da Costa Santos,Diego Martín Alonso López
+3857269,2022-11-28,16:00:00.000,International - FIFA World Cup,2022,Brazil,Switzerland,1,0,available,2,Group Stage,Stadium 974,Ivan Arcides Barton Cisneros,Adenor Leonardo Bacchi,Murat Yakin
+3857299,2022-11-28,13:00:00.000,International - FIFA World Cup,2022,South Korea,Ghana,2,3,available,2,Group Stage,Education City Stadium ,Anthony Taylor,Paulo Jorge Gomes Bento,Otto Addo
+3857259,2022-11-28,10:00:00.000,International - FIFA World Cup,2022,Cameroon,Serbia,3,3,available,2,Group Stage,Al Janoub Stadium   ,Mohamed Abdulla Hassan Mohd,Rigobert Song Bahanag,Dragan Stojković
+3857263,2022-11-27,19:00:00.000,International - FIFA World Cup,2022,Spain,Germany,1,1,available,2,Group Stage,Al Bayt Stadium,Danny Desmond Makkelie,Luis Enrique Martínez García,Hans-Dieter Flick
+3857281,2022-11-27,16:00:00.000,International - FIFA World Cup,2022,Croatia,Canada,4,1,available,2,Group Stage,Sheikh Khalifa International Stadium,Andrés Matonte,Zlatko Dalić,John Herdman
+3857283,2022-11-27,13:00:00.000,International - FIFA World Cup,2022,Belgium,Morocco,0,2,available,2,Group Stage,Al Thumama Stadium,César Arturo Ramos Palazuelos,Roberto Martínez Montoliú,Walid Regragui
+3857295,2022-11-27,10:00:00.000,International - FIFA World Cup,2022,Japan,Costa Rica,0,1,available,2,Group Stage,Ahmad bin Ali Stadium,Michael Oliver,Hajime Moriyasu,Luis Fernando Suárez Guzman
+3857289,2022-11-26,19:00:00.000,International - FIFA World Cup,2022,Argentina,Mexico,2,0,available,2,Group Stage,Lusail Stadium,Daniele Orsato,Lionel Sebastián Scaloni,Gerardo Daniel Martino
+3857266,2022-11-26,16:00:00.000,International - FIFA World Cup,2022,France,Denmark,2,1,available,2,Group Stage,Stadium 974,Szymon Marciniak,Didier Deschamps,Kasper Hjulmand
+3857297,2022-11-26,13:00:00.000,International - FIFA World Cup,2022,Poland,Saudi Arabia,2,0,available,2,Group Stage,Education City Stadium ,Wilton Pereira Sampaio,Czesław Michniewicz,Hervé Renard
+3857288,2022-11-26,10:00:00.000,International - FIFA World Cup,2022,Tunisia,Australia,0,1,available,2,Group Stage,Al Janoub Stadium   ,Daniel Siebert,Jalel Kadri,Graham James Arnold
+3857272,2022-11-25,19:00:00.000,International - FIFA World Cup,2022,England,United States,0,0,available,2,Group Stage,Al Bayt Stadium,Jesús Valenzuela Sáez,Gareth Southgate,Gregg Berhalter
+3857274,2022-11-25,16:00:00.000,International - FIFA World Cup,2022,Netherlands,Ecuador,1,1,available,2,Group Stage,Sheikh Khalifa International Stadium,Mustapha Ghorbal,Louis van Gaal,Gustavo Julio Alfaro
+3857301,2022-11-25,13:00:00.000,International - FIFA World Cup,2022,Qatar,Senegal,1,3,available,2,Group Stage,Al Thumama Stadium,Antonio Miguel Mateu Lahoz,Félix Sánchez Bas,Aliou Cissé
+3857273,2022-11-25,10:00:00.000,International - FIFA World Cup,2022,Wales,Iran,0,2,available,2,Group Stage,Ahmad bin Ali Stadium,Mario Alberto Escobar Toca,Robert Page,Carlos Manuel Brito Leal Queiróz
+3857258,2022-11-24,19:00:00.000,International - FIFA World Cup,2022,Brazil,Serbia,2,0,available,1,Group Stage,Lusail Stadium,Alireza Faghani,Adenor Leonardo Bacchi,Dragan Stojković
+3857298,2022-11-24,16:00:00.000,International - FIFA World Cup,2022,Portugal,Ghana,3,2,available,1,Group Stage,Stadium 974,Ismail Elfath,Fernando Manuel Fernandes da Costa Santos,Otto Addo
+3857287,2022-11-24,13:00:00.000,International - FIFA World Cup,2022,Uruguay,South Korea,0,0,available,1,Group Stage,Education City Stadium ,Clément Turpin,Diego Martín Alonso López,Paulo Jorge Gomes Bento
+3857290,2022-11-24,10:00:00.000,International - FIFA World Cup,2022,Switzerland,Cameroon,1,0,available,1,Group Stage,Al Janoub Stadium   ,Facundo Tello Figueroa,Murat Yakin,Rigobert Song Bahanag
+3857268,2022-11-23,19:00:00.000,International - FIFA World Cup,2022,Belgium,Canada,1,0,available,1,Group Stage,Ahmad bin Ali Stadium,Janny Sikazwe,Roberto Martínez Montoliú,John Herdman
+3857291,2022-11-23,16:00:00.000,International - FIFA World Cup,2022,Spain,Costa Rica,7,0,available,1,Group Stage,Al Thumama Stadium,,Luis Enrique Martínez García,Luis Fernando Suárez Guzman
+3857284,2022-11-23,13:00:00.000,International - FIFA World Cup,2022,Germany,Japan,1,2,available,1,Group Stage,Sheikh Khalifa International Stadium,Ivan Arcides Barton Cisneros,Hans-Dieter Flick,Hajime Moriyasu
+3857277,2022-11-23,10:00:00.000,International - FIFA World Cup,2022,Morocco,Croatia,0,0,available,1,Group Stage,Al Bayt Stadium,Fernando Andrés Rapallini,Walid Regragui,Zlatko Dalić
+3857279,2022-11-22,19:00:00.000,International - FIFA World Cup,2022,France,Australia,4,1,available,1,Group Stage,Al Janoub Stadium   ,Victor Miguel de Freitas Gomes,Didier Deschamps,Graham James Arnold
+3857265,2022-11-22,16:00:00.000,International - FIFA World Cup,2022,Mexico,Poland,0,0,available,1,Group Stage,Stadium 974,Chris Beath,Gerardo Daniel Martino,Czesław Michniewicz
+3857254,2022-11-22,13:00:00.000,International - FIFA World Cup,2022,Denmark,Tunisia,0,0,available,1,Group Stage,Education City Stadium ,César Arturo Ramos Palazuelos,Kasper Hjulmand,Jalel Kadri
+3857300,2022-11-22,10:00:00.000,International - FIFA World Cup,2022,Argentina,Saudi Arabia,1,2,available,1,Group Stage,Lusail Stadium,Slavko Vinčić,Lionel Sebastián Scaloni,Hervé Renard
+3857282,2022-11-21,19:00:00.000,International - FIFA World Cup,2022,United States,Wales,1,1,available,1,Group Stage,Ahmad bin Ali Stadium,Abdulrahman Ibrahim Al Jassim,Gregg Berhalter,Robert Page
+3857285,2022-11-21,16:00:00.000,International - FIFA World Cup,2022,Senegal,Netherlands,0,2,available,1,Group Stage,Al Thumama Stadium,Wilton Pereira Sampaio,Aliou Cissé,Louis van Gaal
+3857271,2022-11-21,13:00:00.000,International - FIFA World Cup,2022,England,Iran,6,2,available,1,Group Stage,Sheikh Khalifa International Stadium,Raphael Claus,Gareth Southgate,Carlos Manuel Brito Leal Queiróz
+3857286,2022-11-20,16:00:00.000,International - FIFA World Cup,2022,Qatar,Ecuador,0,2,available,1,Group Stage,Al Bayt Stadium,Daniele Orsato,Félix Sánchez Bas,Gustavo Julio Alfaro
